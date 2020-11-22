@@ -1,0 +1,1 @@
+cmd_/home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.mod := { echo  /home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.o; echo; } > /home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.mod

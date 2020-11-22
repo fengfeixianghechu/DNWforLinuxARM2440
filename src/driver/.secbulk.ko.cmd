@@ -1,0 +1,1 @@
+cmd_/home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.ko /home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.o /home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.mod.o ;  true
