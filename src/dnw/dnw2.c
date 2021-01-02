@@ -18,7 +18,7 @@
 //EZ6410
 #define EZ6410_VENDOR_ID        0x04e8
 #define EZ6410_PRODUCT_ID       0x1234
-#define EZ6410_RAM_BASE         0x40008000
+#define EZ6410_RAM_BASE         0x30008000
 //download address
 #define RAM_BASE        EZ6410_RAM_BASE
 #define VENDOR_ID       EZ6410_VENDOR_ID

@@ -12,7 +12,7 @@
 
 const char* dev = "/dev/secbulk0";
 #define BLOCK_SIZE	(1*1024*1024)
-#define EZ6410_RAM_BASE 0x40008000
+#define EZ6410_RAM_BASE 0x30008000
 //download address
 #define RAM_BASE        EZ6410_RAM_BASE
 
