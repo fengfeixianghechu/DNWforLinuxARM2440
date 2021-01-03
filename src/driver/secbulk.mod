@@ -1,2 +1,2 @@
-/home/DIYScience/DNWforLinuxARM2440/src/driver/secbulk.o
+/home/chaolei/嵌入式/DNWforLinuxARM2440/src/driver/secbulk.o
 
